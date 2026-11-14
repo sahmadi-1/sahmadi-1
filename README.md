@@ -33,4 +33,7 @@ MEng in Information Technology, with published research involving machine learni
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/seena-ahmadi/) | [Personal Website](https://sahmadi.com)
+- [LinkedIn](https://www.linkedin.com/in/seena-ahmadi/)
+- [GitHub](https://github.com/sahmadi-1)
+
+Open to Software Engineering, Data Engineering, and Applied Machine Learning opportunities in Europe.
